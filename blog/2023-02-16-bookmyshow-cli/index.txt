@@ -1,0 +1,105 @@
+1:"$Sreact.fragment"
+2:I[77890,["621","static/chunks/621-fe77967831e7d09e.js","352","static/chunks/352-283cc22adc044423.js","874","static/chunks/874-4f14adc816ca6141.js","186","static/chunks/186-0d517975e50e4dfc.js","712","static/chunks/712-c132aae253b3d73c.js","177","static/chunks/app/layout-3c53272dc0536fd0.js"],"ThemeProvider"]
+3:I[82828,["621","static/chunks/621-fe77967831e7d09e.js","352","static/chunks/352-283cc22adc044423.js","874","static/chunks/874-4f14adc816ca6141.js","186","static/chunks/186-0d517975e50e4dfc.js","712","static/chunks/712-c132aae253b3d73c.js","177","static/chunks/app/layout-3c53272dc0536fd0.js"],"InteractiveBackground"]
+4:I[62457,["621","static/chunks/621-fe77967831e7d09e.js","352","static/chunks/352-283cc22adc044423.js","874","static/chunks/874-4f14adc816ca6141.js","186","static/chunks/186-0d517975e50e4dfc.js","712","static/chunks/712-c132aae253b3d73c.js","177","static/chunks/app/layout-3c53272dc0536fd0.js"],"AnimatePresence"]
+5:I[82689,["621","static/chunks/621-fe77967831e7d09e.js","352","static/chunks/352-283cc22adc044423.js","874","static/chunks/874-4f14adc816ca6141.js","186","static/chunks/186-0d517975e50e4dfc.js","712","static/chunks/712-c132aae253b3d73c.js","177","static/chunks/app/layout-3c53272dc0536fd0.js"],"Navbar"]
+6:I[87555,[],""]
+7:I[31295,[],""]
+8:I[6821,["621","static/chunks/621-fe77967831e7d09e.js","352","static/chunks/352-283cc22adc044423.js","874","static/chunks/874-4f14adc816ca6141.js","186","static/chunks/186-0d517975e50e4dfc.js","712","static/chunks/712-c132aae253b3d73c.js","177","static/chunks/app/layout-3c53272dc0536fd0.js"],"Footer"]
+9:I[52558,["621","static/chunks/621-fe77967831e7d09e.js","352","static/chunks/352-283cc22adc044423.js","874","static/chunks/874-4f14adc816ca6141.js","186","static/chunks/186-0d517975e50e4dfc.js","712","static/chunks/712-c132aae253b3d73c.js","177","static/chunks/app/layout-3c53272dc0536fd0.js"],"Toaster"]
+b:I[59665,[],"OutletBoundary"]
+e:I[59665,[],"ViewportBoundary"]
+10:I[59665,[],"MetadataBoundary"]
+12:I[26614,[],""]
+:HL["/Jdsb06.github.io/_next/static/media/a34f9d1faa5f3315-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Jdsb06.github.io/_next/static/css/a70ede74a75c48d3.css","style"]
+:HL["/Jdsb06.github.io/_next/static/css/e2b243b1a6d26c88.css","style"]
+:HL["/Jdsb06.github.io/_next/static/css/f3b8208e8dab82f4.css","style"]
+0:{"P":null,"b":"5olXE3v40L0VynU2Zv31m","p":"/Jdsb06.github.io","c":["","blog","2023-02-16-bookmyshow-cli",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","2023-02-16-bookmyshow-cli","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Jdsb06.github.io/_next/static/css/a70ede74a75c48d3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/Jdsb06.github.io/_next/static/css/e2b243b1a6d26c88.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__className_c1df6a","children":["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":[["$","$L3",null,{}],["$","$L4",null,{"mode":"wait","children":[["$","$L5","navbar",{}],["$","main","main-content",{"className":"min-h-screen","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8","footer",{}]]}],["$","$L9",null,{}]]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2023-02-16-bookmyshow-cli","d"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$La","$undefined",[["$","link","0",{"rel":"stylesheet","href":"/Jdsb06.github.io/_next/static/css/f3b8208e8dab82f4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Lb",null,{"children":["$Lc","$Ld",null]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","Xhms4zYaCGqYqcMZWJ0e5",{"children":[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$L10",null,{"children":"$L11"}]]}],false]],"m":"$undefined","G":["$12","$undefined"],"s":false,"S":true}
+13:I[33063,["874","static/chunks/874-4f14adc816ca6141.js","63","static/chunks/63-70a4f050baf122cc.js","595","static/chunks/595-83002dd62b7c004d.js","953","static/chunks/app/blog/%5Bslug%5D/page-6dfc0e77efe86095.js"],"Image"]
+14:I[6874,["874","static/chunks/874-4f14adc816ca6141.js","63","static/chunks/63-70a4f050baf122cc.js","595","static/chunks/595-83002dd62b7c004d.js","953","static/chunks/app/blog/%5Bslug%5D/page-6dfc0e77efe86095.js"],""]
+15:I[86202,["874","static/chunks/874-4f14adc816ca6141.js","63","static/chunks/63-70a4f050baf122cc.js","595","static/chunks/595-83002dd62b7c004d.js","953","static/chunks/app/blog/%5Bslug%5D/page-6dfc0e77efe86095.js"],"BlogContent"]
+16:Te41,<h1>Build Your Own Python-Powered CLI Ticketing Platform</h1>
+<p>Event ticketing has come a long way from paper stubs and phone reservations. With the rise of digital platforms, users expect instant booking, real‑time availability, and seamless payment flows. <strong>BookMyShow</strong>, a leading ticketing portal, sets a high bar. In this blog, we'll walk through building a lightweight, menu‑driven application inspired by BookMyShow, powered by Python and MySQL.</p>
+<h2>Key Features</h2>
+<ol>
+<li><strong>Multi‑Category Shows</strong>: Movies, comedy gigs, adventure events, and music festivals—all managed under one roof.</li>
+<li><strong>Dynamic Language &#x26; Time Slots</strong>: Each show supports multiple languages and screening times stored in JSON‑formatted columns.</li>
+<li><strong>User Accounts</strong>: Sign‑up, sign‑in, profile management, and secure password updates.</li>
+<li><strong>Booking Flow</strong>: Choose a show, select language and time, specify ticket count, and confirm bookings.</li>
+<li><strong>Trending Dashboard</strong>: Quickly surface trending events to keep users engaged.</li>
+</ol>
+<h2>Under the Hood</h2>
+<h3>Database Schema (MySQL)</h3>
+<pre><code class="language-sql">CREATE TABLE shows (
+  show_id INT AUTO_INCREMENT PRIMARY KEY,
+  title VARCHAR(255) NOT NULL,
+  type ENUM('movie','comedy','adventure','music'),
+  languages JSON,
+  time_slots JSON,
+  is_trending BOOLEAN DEFAULT FALSE
+);
+
+CREATE TABLE users (
+  user_id INT PRIMARY KEY,
+  username VARCHAR(50),
+  email VARCHAR(100),
+  pass_word VARCHAR(100),
+  city VARCHAR(50)
+);
+
+CREATE TABLE bookings (
+  booking_id INT AUTO_INCREMENT PRIMARY KEY,
+  user_id INT,
+  show_id INT,
+  num_tickets INT,
+  booking_time DATETIME DEFAULT CURRENT_TIMESTAMP,
+  FOREIGN KEY (user_id) REFERENCES users(user_id),
+  FOREIGN KEY (show_id) REFERENCES shows(show_id)
+);
+</code></pre>
+<h3>Core Python Modules</h3>
+<ul>
+<li><code>mysql-connector-python</code>: Seamless DB operations</li>
+<li><code>pandas</code>: Tabular display of shows and bookings in CLI</li>
+<li><code>json</code>: Parse and store <code>languages</code> &#x26; <code>time_slots</code> arrays</li>
+</ul>
+<pre><code class="language-python">import mysql.connector, json
+
+conn = mysql.connector.connect(...)
+cursor = conn.cursor()
+
+# Fetch shows
+def display_shows():
+    cursor.execute('SELECT show_id, title, languages, time_slots FROM shows')
+    for sid, title, langs, slots in cursor.fetchall():
+        print(f"{sid}: {title}")
+        print(" Languages:", ', '.join(json.loads(langs)))
+        print(" Time Slots:", ', '.join(json.loads(slots)))
+
+# Booking flow
+def book_show(user_id):
+    sid = int(input("Enter Show ID: "))
+    # ... choose language, time, tickets
+    cursor.execute(
+      'INSERT INTO bookings (user_id, show_id, num_tickets) VALUES (%s,%s,%s)',
+      (user_id, sid, ticket_count)
+    )
+    conn.commit()
+    print("Booking confirmed!")
+</code></pre>
+<h3>Menu‑Driven CLI</h3>
+<pre><code class="language-python">while True:
+  print("1. View Shows  2. Book Show  3. My Bookings  4. Account  5. Trending  6. Exit")
+  choice = input()
+  if choice=='2': book_show(current_user)
+  elif choice=='6': break
+  # ... other options
+</code></pre>
+<h2>Conclusion</h2>
+<p>This minimalistic BookMyShow clone demonstrates how Python and MySQL can power a robust ticket‑booking system. By leveraging JSON columns, we handled complex data like multi‑language and dynamic time slots within a single table. From here, you can expand to a full web or mobile interface, implement payment gateways, and deploy to the cloud. The possibilities are endless—happy coding!</p>
+a:["$","article",null,{"className":"min-h-screen","children":[["$","section",null,{"className":"relative h-[60vh] min-h-[400px]","children":[["$","$L13",null,{"src":"/images/BMS-1.jpg","alt":"BookMyShow CLI: Seamless Ticket Booking in Python & MySQL","fill":true,"className":"object-cover","priority":true}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-b from-background/80 to-background"}],["$","div",null,{"className":"absolute inset-0 flex items-center","children":["$","div",null,{"className":"container mx-auto px-4","children":["$","div",null,{"className":"max-w-3xl","children":[["$","$L14",null,{"href":"/blog","className":"inline-flex items-center text-primary hover:underline mb-6","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4 mr-2","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Back to Blog"]}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4","children":"BookMyShow CLI: Seamless Ticket Booking in Python & MySQL"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-muted-foreground","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4 mr-2","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],"2/16/2023"]}],["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4 mr-2","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],"$undefined"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","Python",{"className":"inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-primary/10 text-primary","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3 mr-1","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"Python"]}],["$","span","MySQL",{"className":"inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-primary/10 text-primary","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3 mr-1","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"MySQL"]}],["$","span","Ticket Booking",{"className":"inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-primary/10 text-primary","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3 mr-1","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"Ticket Booking"]}],["$","span","Web Development",{"className":"inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-primary/10 text-primary","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3 mr-1","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"Web Development"]}],["$","span","Entertainment",{"className":"inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-primary/10 text-primary","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3 mr-1","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"Entertainment"]}]]}]]}]]}]}]}]]}],["$","section",null,{"className":"py-12","children":["$","div",null,{"className":"container mx-auto px-4","children":["$","div",null,{"className":"max-w-3xl mx-auto","children":["$","$L15",null,{"content":"$16"}]}]}]}]]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+c:null
+d:null
+11:[["$","title","0",{"children":"BookMyShow CLI: Seamless Ticket Booking in Python & MySQL | Jashandeep Singh"}],["$","meta","1",{"name":"description","content":"Discover how to build a versatile, menu-driven ticket booking application using Python and MySQL—supporting movies, shows, multi-language screenings, and dynamic time slots."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","meta","3",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","4",{"property":"og:title","content":"BookMyShow CLI: Seamless Ticket Booking in Python & MySQL"}],["$","meta","5",{"property":"og:description","content":"Discover how to build a versatile, menu-driven ticket booking application using Python and MySQL—supporting movies, shows, multi-language screenings, and dynamic time slots."}],["$","meta","6",{"property":"og:image","content":"http://localhost:3000/images/BMS-1.jpg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"BookMyShow CLI: Seamless Ticket Booking in Python & MySQL"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2023-02-16"}],["$","meta","12",{"property":"article:author","content":"Jashandeep Singh"}],["$","meta","13",{"property":"article:tag","content":"Python"}],["$","meta","14",{"property":"article:tag","content":"MySQL"}],["$","meta","15",{"property":"article:tag","content":"Ticket Booking"}],["$","meta","16",{"property":"article:tag","content":"Web Development"}],["$","meta","17",{"property":"article:tag","content":"Entertainment"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"BookMyShow CLI: Seamless Ticket Booking in Python & MySQL"}],["$","meta","20",{"name":"twitter:description","content":"Discover how to build a versatile, menu-driven ticket booking application using Python and MySQL—supporting movies, shows, multi-language screenings, and dynamic time slots."}],["$","meta","21",{"name":"twitter:image","content":"http://localhost:3000/images/BMS-1.jpg"}],["$","meta","22",{"name":"twitter:image:width","content":"1200"}],["$","meta","23",{"name":"twitter:image:height","content":"630"}],["$","meta","24",{"name":"twitter:image:alt","content":"BookMyShow CLI: Seamless Ticket Booking in Python & MySQL"}],["$","link","25",{"rel":"icon","href":"/Jdsb06.github.io/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
